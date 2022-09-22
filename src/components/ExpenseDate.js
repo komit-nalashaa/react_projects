@@ -8,7 +8,7 @@ function ExpenseDate(props) {
         <div> {month} </div>
         <div> {year} </div>
     </div>;
-  );222222221`2122`
+  );
 }
 
 export default ExpenseDate;
